@@ -11,6 +11,7 @@ Technologies Used:
 
 Deployed Site:
     The project is deployed on Netlify for the frontend and Railway for the backend. You can access the deployed site 
+    https://saleassistassign.netlify.app/
 
 Dependencies:
     Below are the main dependencies used in the project:
